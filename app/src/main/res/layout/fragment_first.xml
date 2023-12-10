@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+
+    >
+<!--    tools:context=".MainActivity"-->
+<!--    <LinearLayout-->
+<!--        android:layout_marginTop="80dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="fill_parent"-->
+<!--        android:orientation="vertical"-->
+<!--        android:paddingLeft="10dp"-->
+<!--        >-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/imageView"-->
+<!--            android:layout_width="103dp"-->
+<!--            android:layout_height="105dp"-->
+<!--            android:layout_gravity="center"-->
+<!--            app:layout_anchor="imageView"-->
+<!--            app:srcCompat="@drawable/user" />-->
+<!--        <LinearLayout-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="fill_parent"-->
+<!--            android:orientation="vertical">-->
+
+
+
+<!--            <TextView-->
+<!--                android:id="@+id/textview_first"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="User ID"-->
+<!--                android:textSize="20dp"-->
+<!--                android:textStyle="bold">-->
+
+<!--            </TextView>-->
+
+<!--            <EditText-->
+<!--                android:id="@+id/ED1"-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:paddingTop="20dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:inputType="text"-->
+<!--                android:text="User name"-->
+<!--                android:textColor="@color/black" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/textview_second"-->
+<!--                android:paddingTop="20dp"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Password"-->
+<!--                android:textSize="20dp"-->
+<!--                android:textStyle="bold">-->
+
+<!--            </TextView>-->
+
+<!--            <EditText-->
+<!--                android:id="@+id/ED2"-->
+<!--                android:paddingTop="20dp"-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:inputType="textVisiblePassword"-->
+<!--                android:text="Password"-->
+<!--                android:textColor="@color/black" />-->
+<!--            <Button-->
+<!--                android:id="@+id/button_first"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Next"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:backgroundTint="#304d"/>-->
+
+<!--        </LinearLayout>-->
+
+<!--    </LinearLayout>-->
+</RelativeLayout>
